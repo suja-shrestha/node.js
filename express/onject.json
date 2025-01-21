@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "department": "HR"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "department": "Finance"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "department": "Engineering"
+    },
+    {
+        "id": 4,
+        "name": "Diana Prince",
+        "department": "Marketing"
+    },
+    {
+        "id": 5,
+        "name": "Evan Wright",
+        "department": "Sales"
+    }
+]
